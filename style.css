@@ -1,0 +1,27 @@
+body
+{
+  padding-top: 70px;
+}
+
+.zielony
+{
+  background-color: green;
+}
+
+.czerwony 
+{
+  background-color: red;
+}
+
+.niebieski
+{
+  background: blue;
+}
+
+.zolty
+{
+  background: yellow;
+}
+
+
+
